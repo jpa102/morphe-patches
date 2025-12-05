@@ -20,7 +20,6 @@ pluginManagement {
 }
 
 plugins {
-    // TODO: change to plugin 1.0.4
     id("app.morphe.patches") version "1.0.0"
 }
 
